@@ -30,6 +30,6 @@ Files Included
 
 ### Future Enhancements
 
-- Addition of real-time data updates using Spotify API.
+- Addition of real-time data updates using Spotify Datasets.
 - Enhanced visualizations with user suggestions.
 - Integration with other music platforms for comparative analysis.
